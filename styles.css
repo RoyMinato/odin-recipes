@@ -1,0 +1,30 @@
+* {
+    background-color: bisque;
+}
+
+h1 {
+    font-size: 70px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 40px;
+}
+
+li,
+p {
+    font-size: 25px;
+}
+
+.preview {
+    width: 190px;
+    height: auto;
+}
+
+.image {
+    width: 520px;
+    height: auto;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
